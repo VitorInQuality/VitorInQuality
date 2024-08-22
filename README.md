@@ -1,10 +1,10 @@
-<h3 align="left">Sobre mim</h3>
+<h3 align="left">SOBRE MIM</h3>
 
 ###
 
 <p align="left">👋 Sou um Especialista em Quality Assurance com experiência em automação de testes e aplicação de padrões de projeto em ambientes ágeis.</p>
 
-<h4 align="left">Habilidades</h4>
+<h4 align="left">HABILIDADES</h4>
 
 ###
 
@@ -12,11 +12,21 @@
 
 ###
 
+<h4 align="left">ESTATÍSTICAS</h4>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VitorInQuality&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="110" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorInQuality&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="110" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorInQuality&radius=16&theme=react&area=true&order=5" height="200" alt="activity-graph graph"  />
+</div>
+
+###
+
 <h4 align="left"></h4>
 
 ###
 
-<h4 align="left">Mídias Sociais</h4>
+<h4 align="left">MÍDIAS SOCIAIS</h4>
 
 ###
 
@@ -31,7 +41,7 @@
 
 ###
 
-<h4 align="left">Tecnologias</h4>
+<h4 align="left">TECNOLOIGAS</h4>
 
 ###
 
@@ -49,13 +59,5 @@
 
 ###
 
-<h4 align="left">Estatísticas</h4>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VitorInQuality&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="110" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorInQuality&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="110" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorInQuality&radius=16&theme=react&area=true&order=5" height="200" alt="activity-graph graph"  />
-</div>
 
