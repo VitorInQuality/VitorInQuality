@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Habilidades</h2>
+<h3 align="left">Habilidades</h2>
 
 ###
 
@@ -22,11 +22,11 @@
 
 ###
 
-<h2 align="left"></h2>
+<h3 align="left"></h2>
 
 ###
 
-<h2 align="left">Mídias Sociais</h2>
+<h3 align="left">Mídias Sociais</h2>
 
 ###
 
@@ -41,11 +41,11 @@
 
 ###
 
-<h2 align="left"></h2>
+<h3 align="left"></h2>
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h3 align="left">Tecnologias</h2>
 
 ###
 
@@ -63,11 +63,11 @@
 
 ###
 
-<h2 align="left"></h2>
+<h3 align="left"></h2>
 
 ###
 
-<h2 align="left">Estatísticas</h2>
+<h3 align="left">Estatísticas</h2>
 
 ###
 
@@ -76,5 +76,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorInQuality&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="120" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorInQuality&radius=16&theme=react&area=true&order=5" height="220" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/VitorInQuality/VitorInQuality/output/snake.svg" alt="Snake animation" />
 
 ###
