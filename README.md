@@ -4,7 +4,7 @@
 
 <p align="left">"Sou apaixonado por resolver desafios complexos e transformar ideias em soluções tecnológicas eficazes. Acredito firmemente que a colaboração e o trabalho em equipe são essenciais para alcançar resultados excepcionais. Meu objetivo é continuar crescendo na área de tecnologia, contribuindo para o sucesso das empresas e impactando positivamente a vida das pessoas por meio da inovação tecnológica."</p>
 
-## Linguagens de programação
+## Linguagem de Programação
 
 <div style="display: inline_block"><br/>
 <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
